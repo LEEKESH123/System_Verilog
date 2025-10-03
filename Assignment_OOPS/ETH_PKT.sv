@@ -124,10 +124,11 @@ module top;
     end
 
     if (all_match)
-      $display("✅ All transactions MATCH!");
+      $display("All transactions MATCH!");
     else
-      $display("❌ Some transactions DID NOT match!");
+      $display("Some transactions DID NOT match!");
   end
 endmodule : top
+
 
 
