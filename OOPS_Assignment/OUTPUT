@@ -1,0 +1,122 @@
+# KERNEL: ------------------- Gen_ILL_PKT -------------------
+# KERNEL: p_t=ILL
+# KERNEL: no.of packets =1
+# KERNEL: len=25
+# KERNEL: payload size='{-78, -108, 76, 66, 70, 55, 78, 62, 66, 117, -15, -81, -33, 43, 125, 124, -84, -37, -122, 60, -59, -45, 61, -6, 69}         25
+# KERNEL: count_ill=1
+# KERNEL: ------------------- Gen_Good_PKT -------------------
+# KERNEL: p_t=GOOD
+# KERNEL: no.of packets =2
+# KERNEL: len=21
+# KERNEL: payload size='{-104, -111, -112, -13, 11, 16, -87, -88, -96, -5, -104, -47, -52, -21, 117, 56, -49, 127, 52, 94, 38}         21
+# KERNEL: count_good=1
+# KERNEL: ------------------- Gen_Bad_PKT -------------------
+# KERNEL: p_t=BAD
+# KERNEL: no.of packets =3
+# KERNEL: len=17
+# KERNEL: payload size='{18, 80, -126, -2, -58, 95, 52, 44, 96, -53, 51, -117, 42, -128, -48, 9, -39}         17
+# KERNEL: count_bad=1
+# KERNEL: ------------------- Gen_Bad_PKT -------------------
+# KERNEL: p_t=BAD
+# KERNEL: no.of packets =4
+# KERNEL: len=21
+# KERNEL: payload size='{-76, 60, -16, 58, -118, -85, 83, -48, -104, -33, 0, -96, 38, 23, 103, 43, -62, 105, -77, 84, 118}         21
+# KERNEL: count_bad=2
+# KERNEL: ------------------- Gen_Good_PKT -------------------
+# KERNEL: p_t=GOOD
+# KERNEL: no.of packets =5
+# KERNEL: len=23
+# KERNEL: payload size='{-16, 105, -31, -41, 33, -97, -16, -4, -75, -33, -80, -47, -87, -114, 88, -121, -88, -93, 8, -5, 88, 103, 64}         23
+# KERNEL: count_good=2
+# KERNEL: ------------------- Gen_Bad_PKT -------------------
+# KERNEL: p_t=BAD
+# KERNEL: no.of packets =6
+# KERNEL: len=19
+# KERNEL: payload size='{-12, 6, 67, 17, -24, 19, -94, -110, -13, 4, -126, 86, -73, -33, -86, 23, -91, -73, -64}         19
+# KERNEL: count_bad=3
+# KERNEL: ------------------- Gen_Bad_PKT -------------------
+# KERNEL: p_t=BAD
+# KERNEL: no.of packets =7
+# KERNEL: len=23
+# KERNEL: payload size='{-115, 13, -43, 26, -84, -43, 18, 21, 8, 96, 68, 5, 11, 18, 46, -16, 64, -81, 124, 63, -12, 49, 4}         23
+# KERNEL: count_bad=4
+# KERNEL: ------------------- Gen_Bad_PKT -------------------
+# KERNEL: p_t=BAD
+# KERNEL: no.of packets =8
+# KERNEL: len=18
+# KERNEL: payload size='{78, 27, -66, -106, -1, -18, 102, -99, -8, -9, -83, 116, 28, -98, 69, -70, -116, -107}         18
+# KERNEL: count_bad=5
+# KERNEL: ------------------- Gen_Good_PKT -------------------
+# KERNEL: p_t=GOOD
+# KERNEL: no.of packets =9
+# KERNEL: len=24
+# KERNEL: payload size='{71, -67, 49, 82, -27, -54, 45, -110, 77, -85, -65, 78, 107, 17, 119, -95, 43, 71, 126, -43, 63, -86, -2, -11}         24
+# KERNEL: count_good=3
+# KERNEL: ------------------- Gen_ILL_PKT -------------------
+# KERNEL: p_t=ILL
+# KERNEL: no.of packets =10
+# KERNEL: len=21
+# KERNEL: payload size='{55, -121, 71, -15, 96, 35, 82, 21, -51, -99, 34, -44, 61, -23, -6, -76, -3, -61, -70, -77, 85}         21
+# KERNEL: count_ill=2
+# KERNEL: ------------------- GENERATOR DONE -------------------
+# KERNEL: ------------------- BFM_ILL_PRINTS -------------------
+# KERNEL: p_t=ILL
+# KERNEL: no.of packets =10
+# KERNEL: len=25
+# KERNEL: payload size='{-78, -108, 76, 66, 70, 55, 78, 62, 66, 117, -15, -81, -33, 43, 125, 124, -84, -37, -122, 60, -59, -45, 61, -6, 69}         25
+# KERNEL: count_ill=2
+# KERNEL: ------------------- BFM_GOOD_PRINTS -------------------
+# KERNEL: p_t=GOOD
+# KERNEL: no.of packets =10
+# KERNEL: len=21
+# KERNEL: payload size='{-104, -111, -112, -13, 11, 16, -87, -88, -96, -5, -104, -47, -52, -21, 117, 56, -49, 127, 52, 94, 38}         21
+# KERNEL: count_good=3
+# KERNEL: ------------------- BFM_BAD_PRINTS -------------------
+# KERNEL: p_t=BAD
+# KERNEL: no.of packets =10
+# KERNEL: len=17
+# KERNEL: payload size='{18, 80, -126, -2, -58, 95, 52, 44, 96, -53, 51, -117, 42, -128, -48, 9, -39}         17
+# KERNEL: count_bad=5
+# KERNEL: ------------------- BFM_BAD_PRINTS -------------------
+# KERNEL: p_t=BAD
+# KERNEL: no.of packets =10
+# KERNEL: len=21
+# KERNEL: payload size='{-76, 60, -16, 58, -118, -85, 83, -48, -104, -33, 0, -96, 38, 23, 103, 43, -62, 105, -77, 84, 118}         21
+# KERNEL: count_bad=5
+# KERNEL: ------------------- BFM_GOOD_PRINTS -------------------
+# KERNEL: p_t=GOOD
+# KERNEL: no.of packets =10
+# KERNEL: len=23
+# KERNEL: payload size='{-16, 105, -31, -41, 33, -97, -16, -4, -75, -33, -80, -47, -87, -114, 88, -121, -88, -93, 8, -5, 88, 103, 64}         23
+# KERNEL: count_good=3
+# KERNEL: ------------------- BFM_BAD_PRINTS -------------------
+# KERNEL: p_t=BAD
+# KERNEL: no.of packets =10
+# KERNEL: len=19
+# KERNEL: payload size='{-12, 6, 67, 17, -24, 19, -94, -110, -13, 4, -126, 86, -73, -33, -86, 23, -91, -73, -64}         19
+# KERNEL: count_bad=5
+# KERNEL: ------------------- BFM_BAD_PRINTS -------------------
+# KERNEL: p_t=BAD
+# KERNEL: no.of packets =10
+# KERNEL: len=23
+# KERNEL: payload size='{-115, 13, -43, 26, -84, -43, 18, 21, 8, 96, 68, 5, 11, 18, 46, -16, 64, -81, 124, 63, -12, 49, 4}         23
+# KERNEL: count_bad=5
+# KERNEL: ------------------- BFM_BAD_PRINTS -------------------
+# KERNEL: p_t=BAD
+# KERNEL: no.of packets =10
+# KERNEL: len=18
+# KERNEL: payload size='{78, 27, -66, -106, -1, -18, 102, -99, -8, -9, -83, 116, 28, -98, 69, -70, -116, -107}         18
+# KERNEL: count_bad=5
+# KERNEL: ------------------- BFM_GOOD_PRINTS -------------------
+# KERNEL: p_t=GOOD
+# KERNEL: no.of packets =10
+# KERNEL: len=24
+# KERNEL: payload size='{71, -67, 49, 82, -27, -54, 45, -110, 77, -85, -65, 78, 107, 17, 119, -95, 43, 71, 126, -43, 63, -86, -2, -11}         24
+# KERNEL: count_good=3
+# KERNEL: ------------------- BFM_ILL_PRINTS -------------------
+# KERNEL: p_t=ILL
+# KERNEL: no.of packets =10
+# KERNEL: len=21
+# KERNEL: payload size='{55, -121, 71, -15, 96, 35, 82, 21, -51, -99, 34, -44, 61, -23, -6, -76, -3, -61, -70, -77, 85}         21
+# KERNEL: count_ill=2
+# KERNEL: ------------------- BFM DONE -------------------
